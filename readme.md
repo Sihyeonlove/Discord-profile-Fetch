@@ -1,7 +1,7 @@
 제작자 : 시현님 (chiarasihyeon)
 누군가가 만들어달라 하셔서 만들어드렸습니다.이 프로그램은 node.js를 기본적으로 요구합니다.
 
-먼저, 게시된 모든 파일을 다운받습니다.
+먼저, 게시된 모든 파일을 다운받습니다.(<>Code -> Download ZIP, 압축해제를 권장드립니다.)
 
 node.js 설치 -> https://nodejs.org/en/
 
